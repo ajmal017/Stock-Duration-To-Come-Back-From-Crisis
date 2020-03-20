@@ -5,7 +5,10 @@ And the time it took for the stock to come back to the initial price it had fall
 
 This will give an historical view of the kind of crises a company faced in its history, and the duration it took the company to recover form that crisis.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 15fc3204b5e8949fc4467e389c42c6798db30736
 
 
 ## Getting Started
