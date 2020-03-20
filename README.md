@@ -5,10 +5,6 @@ And the time it took for the stock to come back to the initial price it had fall
 
 This will give an historical view of the kind of crises a company faced in its history, and the duration it took the company to recover form that crisis.
 
-Date (Low)	|	Low		| 	from High 	|	Change	|	got back to High by 	| 	after a duration of (years)
-----------------------------------------------------------------------------------------------------------------
-1973-02-01	| $10		| $20			| -50%		| 1976-02-01				| 3.0
-
 
 
 ## Getting Started
