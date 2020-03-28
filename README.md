@@ -5,26 +5,32 @@ And the time it took for the stock to come back to the initial price it had fall
 
 This will give an historical view of the kind of crises a company faced in its history, and the duration it took the company to recover form that crisis.
 
+Result:
+![Result](https://mtlberriawsbucket.s3.us-east-2.amazonaws.com/Stock-Duration-To-Come-Back-From-Crisis/Result.png)
+
 
 ## Getting Started
-
-
 
 ### Prerequisites
 
 Conda virtual environment used: "environment.yml"
 
-* [yfinance](https://pypi.org/project/yfinance/) - Access to financial data
-* pandas
-
+* pandas `conda install pandas`
+* [yfinance](https://pypi.org/project/yfinance/) - Access to financial data `pip install yfinance`
 
 ### Installing
 
+Open a Jupyter Notebook:
+```
+$ jupyter notebook
+```
 
+Open the notebook `Stock-Duration-To-Come-Back-From-Crisis.ipynb`
 
 ## Using
 
-
+Run all cells.
+Ref. Jupyter Notebook for more details on the steps of the process.
 
 ## Built With
 
