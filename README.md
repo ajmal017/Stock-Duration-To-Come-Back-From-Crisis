@@ -5,9 +5,6 @@ And the time it took for the stock to come back to the initial price it had fall
 
 This will give an historical view of the kind of crises a company faced in its history, and the duration it took the company to recover form that crisis.
 
-Starting data:
-![Starting Data](https://mtlberriawsbucket.s3.us-east-2.amazonaws.com/Stock-Duration-To-Come-Back-From-Crisis/Starting_Data.png)
-
 Result:
 ![Result](https://mtlberriawsbucket.s3.us-east-2.amazonaws.com/Stock-Duration-To-Come-Back-From-Crisis/Result.png)
 
